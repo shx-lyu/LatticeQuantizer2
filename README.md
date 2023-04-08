@@ -11,7 +11,7 @@ flag=2 for E_{m,2}^+
 flag=3 for E_{m,1+w}^+ 
 
 # Reference
-Shanxiang Lyu, Zheng Wang, Cong Ling, Hao Chen: Better Lattice Quantizers Constructed from Complex Integers. CoRR abs/2204.01105 (2022)
+Shanxiang Lyu, Zheng Wang, Cong Ling, Hao Chen: Better Lattice Quantizers Constructed From Complex Integers. IEEE Trans. Commun. 70(12): 7932-7940 (2022)
 
 https://arxiv.org/abs/2204.01105
 
